@@ -1,4 +1,7 @@
-
+/*
+Nombre:Janet Iridian Velázquez Sánchez
+Matricula: 2023036
+ */
 import java.awt.Color;
 import javax.swing.JFrame;
 
